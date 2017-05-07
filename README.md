@@ -1,2 +1,2 @@
-# ExemplesProjetsJava
-Exemples de projets JAVA
+# ProjetsJSE
+Exemples de projets Java Standard Edition
